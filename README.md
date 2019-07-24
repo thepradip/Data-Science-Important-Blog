@@ -1,4 +1,4 @@
-# Data-Science-Important-Bloghttp:
+# Data-Science-Important-Blog
 ## Important Data Science resources
 [kdnuggets](https://www.kdnuggets.com/)<br>
 [ No free hunch](http://blog.kaggle.com/)<br>
